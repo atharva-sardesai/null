@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  background:fixed;
+  background-color: #01084D;
+  color: aliceblue;
+}
+
+body{
+  min-height: 100vh;
+  background-image: linear-gradient(#01084D,#000000);
+}
